@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lint>
+    <issue id="IconMissingDensityFolder" severity="ignore"/>
+    <issue id="ObsoleteLayoutParam">
+        <ignore path="res/layout/activation.xml"/>
+        <ignore path="res/layout-xlarge/activation.xml"/>
+    </issue>
+    <issue id="UselessLeaf">
+        <ignore path="res/layout/main"/>
+    </issue>
+    <issue id="HardcodedText" severity="error"/>
+    <issue id="UnusedResources" severity="error"/>
+
+    tools:ignore="all"
+
+    namespace xmlns:tools="http://schemas.android.com/tools"
+</lint>

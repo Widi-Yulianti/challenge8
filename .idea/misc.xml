@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/activity_login.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/activity_main.xml" value="0.10643115942028986" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/activity_register.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/activity_splash.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/fragment_favorite.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/fragment_home.xml" value="0.10643115942028986" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/fragment_movie.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/fragment_movies.xml" value="0.10643115942028986" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/fragment_profile.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/item_favorite.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/free/res/layout/item_view_movie.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/bottom_gradient.xml" value="0.14" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/favorite_toggle.xml" value="0.14" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/ic_favorite.xml" value="0.14" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1405" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1405" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/ic_logout.xml" value="0.14" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/ic_person.xml" value="0.14" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/ic_save_foreground.xml" value="0.14" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/drawable/ic_the_movie_db_logo.xml" value="0.1405" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/activity_login.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/activity_register.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/activity_splash.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/fragment_favorite.xml" value="0.2384428223844282" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/fragment_home.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/fragment_movie.xml" value="0.2384428223844282" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/fragment_movies.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/fragment_profile.xml" value="0.10643115942028986" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/item_favorite.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/item_movie.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/layout/item_view_movie.xml" value="0.2" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/pro/res/drawable-v24/ic_launcher_foreground.xml" value="0.1405" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/pro/res/drawable/ic_launcher_background.xml" value="0.12" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/pro/res/layout/activity_login.xml" value="0.17" />
+        <entry key="..\:/Users/YULLY/AndroidStudioProjects/MyMovie/app/src/pro/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1405" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

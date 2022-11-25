@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "758015122013",
+    "project_id": "fir-widi-1998",
+    "storage_bucket": "fir-widi-1998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758015122013:android:bb124f2baab1516f810bb4",
+        "android_client_info": {
+          "package_name": "br.com.logindatastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ENcS-9lN_lOSKUk2JC4UmbByez5ZeYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758015122013:android:b7fa0b99009ede99810bb4",
+        "android_client_info": {
+          "package_name": "com.example.moviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ENcS-9lN_lOSKUk2JC4UmbByez5ZeYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758015122013:android:060fb7774126bcf2810bb4",
+        "android_client_info": {
+          "package_name": "com.example.mymovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ENcS-9lN_lOSKUk2JC4UmbByez5ZeYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758015122013:android:060fb7774126bcf2810bb4",
+        "android_client_info": {
+          "package_name": "com.example.mymovie.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ENcS-9lN_lOSKUk2JC4UmbByez5ZeYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758015122013:android:060fb7774126bcf2810bb4",
+        "android_client_info": {
+          "package_name": "com.example.mymovie.prem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ENcS-9lN_lOSKUk2JC4UmbByez5ZeYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758015122013-hj4u94beh6lkbqtkmg3l7mmvqotoo164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

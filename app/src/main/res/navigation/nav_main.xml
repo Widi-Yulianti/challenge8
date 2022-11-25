@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/moviesFragment">
+
+    <fragment
+        android:id="@+id/moviesFragment"
+        android:name="com.example.mymovie.movies.MoviesFragment"
+        android:label="MoviesFragment"
+        tools:layout="@layout/fragment_movies">
+        <action
+            android:id="@+id/action_moviesFragment_to_hilt_ProfileFragment"
+            app:destination="@id/hilt_ProfileFragment" />
+        <action
+            android:id="@+id/action_moviesFragment_to_hilt_FavoriteFragment"
+            app:destination="@id/hilt_FavoriteFragment" />
+        <action
+            android:id="@+id/action_moviesFragment_to_movieFragment"
+            app:destination="@id/movieFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/hilt_ProfileFragment"
+        android:name="com.example.mymovie.ui.ProfileFragment"
+        android:label="Hilt_ProfileFragment"
+        tools:layout="@layout/fragment_profile"/>
+    <fragment
+        android:id="@+id/hilt_FavoriteFragment"
+        android:name="com.example.mymovie.movies.FavoriteFragment"
+        android:label="Hilt_FavoriteFragment"
+        tools:layout="@layout/fragment_favorite"/>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.mymovie.ui.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_profileFragment_to_moviesFragment"
+            app:destination="@id/moviesFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/movieFragment"
+        android:name="com.example.mymovie.movies.MovieFragment"
+        android:label="MovieFragment"
+        tools:layout="@layout/fragment_movie"/>
+</navigation>
